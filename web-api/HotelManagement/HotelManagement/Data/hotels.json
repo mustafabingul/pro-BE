@@ -1,0 +1,122 @@
+[
+  {
+    "name": "The Marylebone Hotel",
+    "description": "The Marylebone Hotel Desc",
+    "location": "Islington",
+    "rate": 2
+  },
+  {
+    "name": "Rosewood London",
+    "description": "Rosewood London Desc",
+    "location": "Greenwich",
+    "rate": 4
+  },
+  {
+    "name": "The Adria",
+    "description": "The Adria Desc",
+    "location": "Kensington & Chelsea",
+    "rate": 1
+  },
+  {
+    "name": "The LaLit London",
+    "description": "The LaLit London Desc",
+    "location": "Chelsea",
+    "rate": 5
+  },
+  {
+    "name": "Caesar Hotel",
+    "description": "Caesar Hotel Desc",
+    "location": "Hounslow",
+    "rate": 3
+  },
+  {
+    "name": "Sheraton Heathrow Hotel",
+    "description": "Sheraton Heathrow Hotel Desc",
+    "location": "Chelsea",
+    "rate": 4
+  },
+  {
+    "name": "Hilton London Heathrow Airport Hotel",
+    "description": "Hilton London Heathrow Airport Hotel Desc",
+    "location": "Hounslow",
+    "rate": 1
+  },
+  {
+    "name": "Park Grand London Hyde Park",
+    "description": "Park Grand London Hyde Park Desc",
+    "location": "Brent",
+    "rate": 3
+  },
+  {
+    "name": "The Queen's Gate Hotel",
+    "description": "The Queen's Gate Hotel Desc",
+    "location": "Brent",
+    "rate": 2
+  },
+  {
+    "name": "Clayton Crown Hotel London",
+    "description": "Clayton Crown Hotel London Desc",
+    "location": "Southwark",
+    "rate": 4
+  },
+  {
+    "name": "Royal Garden Hotel",
+    "description": "Royal Garden Hotel Desc",
+    "location": "Southwark",
+    "rate": 2
+  },
+  {
+    "name": "London Marriott Hotel Park Lane",
+    "description": "London Marriott Hotel Park Lane Desc",
+    "location": "Southwark",
+    "rate": 5
+  },
+  {
+    "name": "Large Luxury Putney Home",
+    "description": "Large Luxury Putney Desc",
+    "location": "Kensington & Chelsea",
+    "rate": 2
+  },
+  {
+    "name": "Hotel Foruse",
+    "description": "Hotel Foruse Desc",
+    "location": "Westminster",
+    "rate": 4
+  },
+  {
+    "name": "London Hilton on Park Lane",
+    "description": "London Hilton on Park Lane Desc",
+    "location": "Southwark",
+    "rate": 5
+  },
+  {
+    "name": "St Martins Lane London",
+    "description": "St Martins Lane London Desc",
+    "location": "Lewisham",
+    "rate": 4
+  },
+  {
+    "name": "The Savoy",
+    "description": "The Savoy Desc",
+    "location": "Lambeth",
+    "rate": 2
+  },
+  {
+    "name": "The Langham, London",
+    "description": "The Langham, London Desc",
+    "location": "Fulham",
+    "rate": 4
+  },
+  {
+    "name": "Dukes London",
+    "description": "Dukes London Desc",
+    "location": "Wandsworth",
+    "rate": 3
+  },
+  {
+    "name": "The Langham, London",
+    "description": "The Langham, London Desc",
+    "location": "Kensington & Chelsea",
+    "rate": 5
+  }
+]
